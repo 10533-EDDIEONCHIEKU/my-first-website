@@ -13,3 +13,14 @@ h1 {
   ul {
     line-height: 40px;
   }
+body {
+    background-color: darkgray;
+}
+  p {
+      font-size: medium;
+      font-style: italic;
+      font-family: 'Courier New', Courier, monospace;
+  }
+  ul {
+      line-height: initial;
+  }
